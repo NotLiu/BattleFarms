@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "objcornanim",
     "eventList": [
-        
+        {
+            "id": "10ff992e-7302-4894-933c-afe28fe45788",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 7,
+            "eventtype": 7,
+            "m_owner": "93f78e56-2281-4a55-88eb-4c6923c7ad73"
+        },
+        {
+            "id": "6adb2f6a-b8c0-45ba-a49f-0f9a4776683c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "38df2602-aa51-451e-860f-1ecae881ac12",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "93f78e56-2281-4a55-88eb-4c6923c7ad73"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
