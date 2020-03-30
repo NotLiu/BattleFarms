@@ -20,7 +20,7 @@ ds_grid_sort(depthgrid,1,true);
 var inst;
 yy = 0; repeat(inst_num){
 	//pull id
-	inst = depthgrid[# 1, yy];
+	inst = depthgrid[# 0, yy];
 	//get instance draw self
 	with(inst){
 		event_perform(ev_draw, 0); //use objects own draw event	

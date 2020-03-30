@@ -6,5 +6,5 @@ y = y * room_h;
 image_xscale = room_w;
 image_yscale = room_h;
 
-//visible = false;
+visible = false;
 
